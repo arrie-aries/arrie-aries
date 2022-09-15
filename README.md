@@ -52,7 +52,7 @@ I'm also game and anime ethusiasm you can join our discord. <a href="https://www
 ## Pinned Repositories
 
 <p align="left">
-	<a href="https:https://github.com/arrie-aries/TankU">
+	<a href="https://github.com/arrie-aries/TankU">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arrie-aries&repo=TankU&hide_border=true&theme=algolia&show_icons=true" />
 	</a>
 </p>
