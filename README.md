@@ -52,14 +52,8 @@ I'm also game and anime ethusiasm you can join our discord. <a href="https://www
 ## Pinned Repositories
 
 <p align="left">
-	<a href="https://github.com/Icankkkk/Driforte.git">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Driforte&hide_border=true&theme=algolia&show_icons=true" />
-	</a>
-    <a href="https://github.com/Icankkkk/Survival-Shooter.git">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Survival-Shooter&hide_border=true&theme=algolia&show_icons=true" />
-	</a>
-	 <a href="https://github.com/Icankkkk/Paint-Astic.git">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Paint-Astic&hide_border=true&theme=algolia&show_icons=true" />
+	<a href="https:https://github.com/arrie-aries/TankU">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arrie-aries&repo=TankU&hide_border=true&theme=algolia&show_icons=true" />
 	</a>
 </p>
 <!--
