@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="source/1.gif">
-    <img src="source/2.gif">
+    <img src="Images/welcome.gif">
 </p>
 
 <p align="center">
