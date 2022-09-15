@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Images/welcome.gif">
+    <img src="Images/Welcome.gif">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I'm a Arrie, with Software Engineer degree doing freelance and currently learnin
 
 In my personal capacity, i do a lot of watching and learning mostly on programing languages, learn unity and C#, analyst database, and creating mini project for my self satifaction.
 
-I'm also game and anime ethusiasm you can join our discord. <a href="https://www.mokkapps.de/blog"> Join our community!<a/>
+I'm also game and anime ethusiasm you can join our discord. <a href="https://discord.gg/tnj68QYf"> Join our community!<a/>
 
 ### GameDev:
 
